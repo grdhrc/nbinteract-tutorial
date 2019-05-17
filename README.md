@@ -1,4 +1,4 @@
-# nbinteract-tutorial
+# nbinteract-tutorial to Run the Jupyter Notebook in Binder server to make Interactive webpages
 I implemented the computation of file distribution analysis by implementing the file distribution time formula in a custom python function code on a Jupyter notebook. The main advantage of using Jupyter notebook is that it will help to bring interactivity and dynamic computation. 
 
 It will also help you implement the use of sliders for dynamically regulating the File size, uplink speed, downlink speed and latency. Once the code is implemented in Jupyter notebook it needs to be converted to a webpage so that it can be accessed by the users.
